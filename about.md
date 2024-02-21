@@ -9,4 +9,4 @@ Hi, this is Prashant Dangi a second year B.Tech Student at Bennett University sp
 I am not a poet or literary scholar, so unfortunately you won't find anything more. ;-)
 
 
->> Spamming Social media with my useless tweets .. :expressionless:
+>> Spamming Social media with my useless tweets .. 
