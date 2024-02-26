@@ -45,3 +45,14 @@ Evaluation Policy
 | End Sem | 40 |
 
 ## CSET 207 : Computer Networks <br>
+
+## CSET210 : Design Thinking and Innovation (DTI) </br>
+
+|        |      Thing to do  | Marks |
+|----------------|------------|-----|
+| Assignment-01 | Milestone-1 | 15 |
+| LCE  | Milestone-2 | 25 |
+| Project | Milestone-3 | 50 |
+| Certificate |    | 10 |
+
+
