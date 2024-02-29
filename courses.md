@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coursed
+title: Courses
 permalink: /courses/
 ---
 
