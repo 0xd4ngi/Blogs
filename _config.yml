@@ -1,12 +1,12 @@
 title: 0xd4ngi
 author:
-  name: Dangi P.
-  email: prashantdangi983@gmail.com
+#  name: Dangi P.
+#  email: prashantdangi983@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  It's not hard to take decision but its hard to prove it, that the decision you take is right..
+  Security Researcher 
 
 # Build settings
 
@@ -57,7 +57,7 @@ minima:
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/0xd4ngi" }
+  #  - { platform: github,         user_url: "https://github.com/0xd4ngi" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
@@ -65,7 +65,7 @@ minima:
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-    - { platform: telegram,       user_url: "https://t.me/+768lbj2E2wU4MWQ1" }
+  #  - { platform: telegram,       user_url: "https://t.me/+768lbj2E2wU4MWQ1" }
   # - { platform: twitter,        user_url: "https://twitter.com/0xd4ngi" }
     - { platform: x,              user_url: "https://twitter.com/0xd4ngi" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
