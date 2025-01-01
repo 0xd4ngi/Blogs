@@ -1,7 +1,7 @@
 title: 0xd4ngi
 author:
-  name: Dangi P.
-  email: 0xd4ngi@proton.me
+  name: Prashant Dangi
+  
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -67,7 +67,7 @@ minima:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/+768lbj2E2wU4MWQ1" }
   # - { platform: twitter,        user_url: "https://twitter.com/0xd4ngi" }
-    - { platform: x,              user_url: "https://twitter.com/0xd4ngi" }
+  # - { platform: x,              user_url: "https://twitter.com/0xd4ngi" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
   #  - { platform: discord,        user_url: "https://www.youtube.com/jekyll" }
 
