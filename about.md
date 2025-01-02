@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Penetration Testing
-Reverse Engineering 
-Vulnerability Analysis
-APT
-Red Teaming
-SOC L1
-SOC L2
-SOC L3
+Penetration Testing </br>
+Reverse Engineering </br>
+Vulnerability Analysis </br>
+APT </br>
+Red Teaming </br>
+SOC L1 </br> 
+SOC L2 </br>
+SOC L3 </br>
 
 
 ![aaa](/assets/images/about.webp)
