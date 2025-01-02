@@ -1,12 +1,12 @@
-title: 0xd4ngi
+title: PD
 author:
   name: Prashant Dangi
-  
+  email: prashantdangi983@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Security Researcher 
+  
 
 # Build settings
 
@@ -29,21 +29,7 @@ plugins:
 header_pages:
   - about.md
 #  - contact.md
-  
-
-# Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
-
-# Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
   skin: dark
   
   # Minima date format.
