@@ -43,8 +43,8 @@ Active Directory\
 Android/iOS\
 Zero Day\
 Unpatched Software\
-Evasdropping/MitM
-Data leaks
+Evasdropping/MitM\
+Data leaks\
 Denial of Service 
 
 
