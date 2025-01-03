@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-C</br>
-Python</br>
-Assembly</br>
+C\
+Python\
+Assembly\
 Linux</br>
 Ubuntu</br>
 Penetration Testing</br>
