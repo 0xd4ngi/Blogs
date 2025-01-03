@@ -1,9 +1,6 @@
 ---
 layout: post
 ---
-
-# Design and Analysis of Algorithms 
-
 > Recursion
 >> Recursion Tree Method </br>
 >> Master Method 

