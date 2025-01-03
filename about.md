@@ -40,7 +40,12 @@ Mobile Security\
 Rogue Attacks\
 DNS Tunneling\
 Active Directory\
-Android/iOS
+Android/iOS\
+Zero Day\
+Unpatched Software\
+Evasdropping/MitM
+Data leaks
+Denial of Service 
 
 
 
