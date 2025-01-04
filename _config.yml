@@ -43,7 +43,7 @@ minima:
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-     - { platform: github,         user_url: "https://www.github.com/0xd4ngi" }
+     - { platform: github,         user_url: "https://www.github.com/prashantdangi" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
