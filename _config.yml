@@ -29,11 +29,11 @@ google_analytics: G-BH5TX46KPD
 header_pages:
   - about.md
   - contact.md
-  - Archive 
-  - Reverse Engineering
-  - CTF
-  - Android/iOS
-  
+  - archive.md 
+  - reverse engineering.md
+  - CTF.md
+  - Android/iOS.md
+
 minima:
   skin: dark
   
