@@ -30,7 +30,7 @@ header_pages:
   - about.md
   - contact.md
   - archive.md 
-  - reverse engineering.md
+  - reverse-engineering.md
   - CTF.md
   - Android/iOS.md
 
