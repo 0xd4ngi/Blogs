@@ -28,7 +28,11 @@ google_analytics: G-BH5TX46KPD
 # in order as they should show up.
 header_pages:
   - about.md
-#  - contact.md
+  - contact.md
+  - Archive 
+  - Reverse Engineering
+  - CTF
+  - Android/iOS
 minima:
   skin: dark
   
