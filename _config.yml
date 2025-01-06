@@ -28,7 +28,7 @@ google_analytics: G-BH5TX46KPD
 # in order as they should show up.
 header_pages:
 
-  - reverse-engineering.md
+  - RvEng.md
   - about.md
 
 minima:
